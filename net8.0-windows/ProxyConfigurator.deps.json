@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProxyConfigurator/1.0.0": {
+        "runtime": {
+          "ProxyConfigurator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProxyConfigurator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
